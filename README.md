@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @eblairmckee
 - 👀 I’m a UI Engineer specializing in React
-- 🌱 atm I'm learning full stack React
-- 💞️ always ready to geek out on CSS
-- 📫 @eblairmckee
+- 💅🏼 atm I build design systems
+- 📫 @theblairwitch.eth
