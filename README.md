@@ -1,3 +1,2 @@
 - 👋 Hey there! I'm Blair
 - 💅🏼 I work on the design system at Coinbase and start a lot of side projects that never get finished
-- 📫 @theblairwitch.eth
