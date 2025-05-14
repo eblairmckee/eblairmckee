@@ -1,2 +1,2 @@
-- 👋 Hey there! I'm Blair
-- 💅🏼 I like to build DevX tools, Design Systems, and side projects that never get finished
+- 👋 Hey there! They call me Bear & Tofu's mom, Blair for short
+- 💅🏼 I build Design tools and DevX things
